@@ -64,3 +64,6 @@ url = {https://www.sciencedirect.com/science/article/pii/S0965997824002345},
 author = {Chanho Park and Woochan Lee and Seongim Choi},
 keywords = {Bypass dual throat nozzle, Sensitivity analysis, Data-driven optimization},
 }
+
+## Code Availability
+The source code for this project is available upon request. Please contact the author via email for access.

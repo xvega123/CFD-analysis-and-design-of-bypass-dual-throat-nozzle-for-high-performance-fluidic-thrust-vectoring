@@ -48,6 +48,9 @@ The data-driven optimization process yielded design candidates with superior per
 
 ---
 
+## Code Availability
+The source code for this project is available upon request. Please contact the author via email for access.
+
 ## Citation
 For more details, please refer to our published work:
 
@@ -65,5 +68,3 @@ author = {Chanho Park and Woochan Lee and Seongim Choi},
 keywords = {Bypass dual throat nozzle, Sensitivity analysis, Data-driven optimization},
 }
 
-## Code Availability
-The source code for this project is available upon request. Please contact the author via email for access.
